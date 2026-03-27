@@ -12,4 +12,4 @@ dependencies = [
 ]
 
 [project.scripts]
-planslurpen = "planslurpen_mcp:main"
+planslurpen-mcp = "planslurpen_mcp:main"
