@@ -717,9 +717,15 @@ async def planslurpen_lookup_property(params: LookupPropertyInput) -> str:
         return truncate_content(result)
 
 
+
 # ============================================================================
 # Server Entry Point
 # ============================================================================
+
+def main():
+    # Run the MCP server
+    mcp.run()
+
 
 if __name__ == "__main__":
     # Run the MCP server
