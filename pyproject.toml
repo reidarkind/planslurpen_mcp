@@ -1,5 +1,5 @@
 [project]
-name = "planslurpen-mcp"
+name = "planslurpen_mcp"
 version = "0.1.0"
 description = "MCP server script for Planslurpen"
 authors = [
